@@ -1,0 +1,12 @@
+Available:	99.65 GB (99,645,517,824 bytes)
+  Capacity:	99.86 GB (99,860,910,080 bytes)
+  Mount Point:	/Volumes/Data
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s3
+  Volume UUID:	FC8E47F3-EC80-3D33-910A-F1789806C742
+  Physical Drive:
+  Media Name:	WDC WD1001FALS-403AA0 Media
+
+free space: 831.05gb
